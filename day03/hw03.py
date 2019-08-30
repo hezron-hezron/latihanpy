@@ -21,6 +21,8 @@
 #
 # 3. Anda tidak boleh merubah kode didalam tests/hw03_test.py. Jalankan test tersebut untuk memvalidasi apakah jawaban
 #       anda benar.
+#
+# 4. Buat flowchart dari kode ini
 
 def membuat_sim(nama, umur, berkas_dikirim):
     mendapat_sim = umur > 17
